@@ -1,0 +1,7 @@
+C:\LocalProjects\Kattis\Kattis\bin\Debug\Kattis.exe.config
+C:\LocalProjects\Kattis\Kattis\bin\Debug\Kattis.exe
+C:\LocalProjects\Kattis\Kattis\bin\Debug\Kattis.pdb
+C:\LocalProjects\Kattis\Kattis\obj\Debug\Kattis.csprojAssemblyReference.cache
+C:\LocalProjects\Kattis\Kattis\obj\Debug\Kattis.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Kattis\Kattis\obj\Debug\Kattis.exe
+C:\LocalProjects\Kattis\Kattis\obj\Debug\Kattis.pdb
